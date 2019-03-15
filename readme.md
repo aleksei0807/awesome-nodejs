@@ -429,6 +429,7 @@
 ### Real-time
 
 - [µWebSockets](https://github.com/uWebSockets/uWebSockets) - Highly scalable WebSocket server & client library.
+- [Blinchik](https://github.com/aleksei0807/blinchik) - Tiny websocket wrapper made using Kefir.js streams.
 - [Socket.io](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 - [Faye](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
